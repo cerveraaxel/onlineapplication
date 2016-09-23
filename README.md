@@ -1,3 +1,7 @@
-# Mock-up website
+# Applicatino submission webpage
 
-Simple mock-up website that a small business can use to hire emplyees
+A simple webpage that allows to sumbit an application in this case it will be 
+a job application webpage used as an example. 
+
+This project is meants to exercise my skills in html, css and practice 
+databases.
